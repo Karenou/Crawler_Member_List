@@ -16,7 +16,3 @@ Crawl member info from various websites
 4. 香港律师会
 - website: http://www.hklawsoc.org.hk/pub_c/memberlawlist/honour.asp
 - data: name in CN and EN, chamber, title, region, education, qualification, year of certificate
-
-5. 东华三院
-- website: http://www.tungwah.org.hk/about/corporate-governance/board-of-directors/past-board/
-- data: name in CN and EN, title, year of assignment
